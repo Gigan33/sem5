@@ -1,4 +1,5 @@
 # sem5
+Второе задание 5ого семинара лежит в sem5.2
 
 https://github.com/Gigan33/sem5.git
 
