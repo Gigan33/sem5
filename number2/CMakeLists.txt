@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
-project(lab5 C)
+project(untitled C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(lab5 main.c mainin.h stack.h stack.c mainin.c)
+add_executable(untitled main.c)
